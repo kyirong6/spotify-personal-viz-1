@@ -1,0 +1,1453 @@
+{
+  "items" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 163506
+    },
+    "genres" : [ "contemporary jazz", "contemporary post-bop", "cool jazz", "jazz", "jazz fusion", "jazz piano", "modern jazz piano" ],
+    "href" : "https://api.spotify.com/v1/artists/2vI9KFm0fwSfPrpEgOeIbq",
+    "id" : "2vI9KFm0fwSfPrpEgOeIbq",
+    "images" : [ {
+      "height" : 1000,
+      "url" : "https://i.scdn.co/image/317f1b374019ff179b7bc5e9b2748b4bfc79d372",
+      "width" : 1000
+    }, {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/304c747b93b032e4e516cb52016ce86bf8fe466c",
+      "width" : 640
+    }, {
+      "height" : 200,
+      "url" : "https://i.scdn.co/image/eb59d58c54a9a1c9fb75dc969ec821cfd19af256",
+      "width" : 200
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0984bc18f78db40d56df6632b2ae490ac0bdef6e",
+      "width" : 64
+    } ],
+    "name" : "Brad Mehldau",
+    "popularity" : 55,
+    "type" : "artist",
+    "uri" : "spotify:artist:2vI9KFm0fwSfPrpEgOeIbq"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 7647678
+    },
+    "genres" : [ "alternative hip hop" ],
+    "href" : "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
+    "id" : "3AA28KZvwAUcZuOKwyblJQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebe9de8fae8eacbcff097dc818",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174e9de8fae8eacbcff097dc818",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178e9de8fae8eacbcff097dc818",
+      "width" : 160
+    } ],
+    "name" : "Gorillaz",
+    "popularity" : 82,
+    "type" : "artist",
+    "uri" : "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 51014
+    },
+    "genres" : [ "contemporary jazz", "contemporary post-bop", "jazz", "jazz fusion", "jazz guitar" ],
+    "href" : "https://api.spotify.com/v1/artists/253GMpCNwx1TJtASNAeDoP",
+    "id" : "253GMpCNwx1TJtASNAeDoP",
+    "images" : [ {
+      "height" : 265,
+      "url" : "https://i.scdn.co/image/44a19cd461789fa79d9594214d22ceea58462a22",
+      "width" : 400
+    }, {
+      "height" : 133,
+      "url" : "https://i.scdn.co/image/2b4a335c381292104e75b4ab12b9629574053b14",
+      "width" : 200
+    }, {
+      "height" : 42,
+      "url" : "https://i.scdn.co/image/5bfd5052a23fbb432523548fa619620dc92265f1",
+      "width" : 63
+    } ],
+    "name" : "Kurt Rosenwinkel",
+    "popularity" : 41,
+    "type" : "artist",
+    "uri" : "spotify:artist:253GMpCNwx1TJtASNAeDoP"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 8288372
+    },
+    "genres" : [ "electro", "filter house" ],
+    "href" : "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+    "id" : "4tZwfgrHOc3mvqYlEYSvVi",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebca77d763703a93930c363a39",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174ca77d763703a93930c363a39",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178ca77d763703a93930c363a39",
+      "width" : 160
+    } ],
+    "name" : "Daft Punk",
+    "popularity" : 82,
+    "type" : "artist",
+    "uri" : "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 9998
+    },
+    "genres" : [ "contemporary jazz", "jazz" ],
+    "href" : "https://api.spotify.com/v1/artists/26XwWqwNq8FMgZEKqqdU9b",
+    "id" : "26XwWqwNq8FMgZEKqqdU9b",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb19030422c459adb1b9570ad6",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab6761610000517419030422c459adb1b9570ad6",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f17819030422c459adb1b9570ad6",
+      "width" : 160
+    } ],
+    "name" : "Walter Smith III",
+    "popularity" : 31,
+    "type" : "artist",
+    "uri" : "spotify:artist:26XwWqwNq8FMgZEKqqdU9b"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 24311
+    },
+    "genres" : [ "bedroom soul" ],
+    "href" : "https://api.spotify.com/v1/artists/0bBrsS9ufPAmeFQgDNG54O",
+    "id" : "0bBrsS9ufPAmeFQgDNG54O",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb0b8edfcceddaf5889299daf8",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab676161000051740b8edfcceddaf5889299daf8",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f1780b8edfcceddaf5889299daf8",
+      "width" : 160
+    } ],
+    "name" : "cehryl",
+    "popularity" : 42,
+    "type" : "artist",
+    "uri" : "spotify:artist:0bBrsS9ufPAmeFQgDNG54O"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 5436
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/5szMuuBbDzULkagWIfI5LG",
+    "id" : "5szMuuBbDzULkagWIfI5LG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebda1f0478ee58884ad51dc29a",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174da1f0478ee58884ad51dc29a",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178da1f0478ee58884ad51dc29a",
+      "width" : 160
+    } ],
+    "name" : "Immanuel Wilkins",
+    "popularity" : 37,
+    "type" : "artist",
+    "uri" : "spotify:artist:5szMuuBbDzULkagWIfI5LG"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 69820
+    },
+    "genres" : [ "contemporary jazz", "jazz", "jazz fusion", "jazz guitar" ],
+    "href" : "https://api.spotify.com/v1/artists/2TSuAchdgVzsAa9wDK1IeT",
+    "id" : "2TSuAchdgVzsAa9wDK1IeT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebecaa49a4b4168ea8829663e1",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174ecaa49a4b4168ea8829663e1",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178ecaa49a4b4168ea8829663e1",
+      "width" : 160
+    } ],
+    "name" : "Julian Lage",
+    "popularity" : 48,
+    "type" : "artist",
+    "uri" : "spotify:artist:2TSuAchdgVzsAa9wDK1IeT"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1P6Llrp12ldpVbyC8gCHBz"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 15012
+    },
+    "genres" : [ "contemporary jazz", "jazz", "jazz drums", "straight-ahead jazz" ],
+    "href" : "https://api.spotify.com/v1/artists/1P6Llrp12ldpVbyC8gCHBz",
+    "id" : "1P6Llrp12ldpVbyC8gCHBz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebb64c95c4c8cb93f95c41894b",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174b64c95c4c8cb93f95c41894b",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178b64c95c4c8cb93f95c41894b",
+      "width" : 160
+    } ],
+    "name" : "Ari Hoenig",
+    "popularity" : 39,
+    "type" : "artist",
+    "uri" : "spotify:artist:1P6Llrp12ldpVbyC8gCHBz"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 5267099
+    },
+    "genres" : [ "neo mellow", "pop rock", "singer-songwriter" ],
+    "href" : "https://api.spotify.com/v1/artists/0hEurMDQu99nJRq8pTxO14",
+    "id" : "0hEurMDQu99nJRq8pTxO14",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb265ef5547ecff4dabd6352bf",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174265ef5547ecff4dabd6352bf",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178265ef5547ecff4dabd6352bf",
+      "width" : 160
+    } ],
+    "name" : "John Mayer",
+    "popularity" : 82,
+    "type" : "artist",
+    "uri" : "spotify:artist:0hEurMDQu99nJRq8pTxO14"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 111353
+    },
+    "genres" : [ "contemporary jazz", "jazz", "jazz piano", "modern jazz piano" ],
+    "href" : "https://api.spotify.com/v1/artists/0D3h8NZqNp7BN97JwtV6eW",
+    "id" : "0D3h8NZqNp7BN97JwtV6eW",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebed2cc0c420f796a4601e3661",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174ed2cc0c420f796a4601e3661",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178ed2cc0c420f796a4601e3661",
+      "width" : 160
+    } ],
+    "name" : "Tigran Hamasyan",
+    "popularity" : 45,
+    "type" : "artist",
+    "uri" : "spotify:artist:0D3h8NZqNp7BN97JwtV6eW"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 19807
+    },
+    "genres" : [ "contemporary jazz", "ecm-style jazz", "israeli jazz" ],
+    "href" : "https://api.spotify.com/v1/artists/0ctjXj4AKsMtj6Tsm0JzSj",
+    "id" : "0ctjXj4AKsMtj6Tsm0JzSj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebf9ed1cbe65f79bab6aa20243",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174f9ed1cbe65f79bab6aa20243",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178f9ed1cbe65f79bab6aa20243",
+      "width" : 160
+    } ],
+    "name" : "Shai Maestro",
+    "popularity" : 34,
+    "type" : "artist",
+    "uri" : "spotify:artist:0ctjXj4AKsMtj6Tsm0JzSj"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 36974
+    },
+    "genres" : [ "contemporary jazz", "indie jazz", "jazz", "jazz trumpet" ],
+    "href" : "https://api.spotify.com/v1/artists/4ai53dgSBGhQwcFtGyY1bF",
+    "id" : "4ai53dgSBGhQwcFtGyY1bF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb170e216d777b3fe896f0753f",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174170e216d777b3fe896f0753f",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178170e216d777b3fe896f0753f",
+      "width" : 160
+    } ],
+    "name" : "Ambrose Akinmusire",
+    "popularity" : 37,
+    "type" : "artist",
+    "uri" : "spotify:artist:4ai53dgSBGhQwcFtGyY1bF"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 49752
+    },
+    "genres" : [ "contemporary jazz", "cool jazz", "jazz", "jazz fusion", "jazz trio", "modern jazz trio" ],
+    "href" : "https://api.spotify.com/v1/artists/5sQJzc7ZGwC4olbhp2kqqX",
+    "id" : "5sQJzc7ZGwC4olbhp2kqqX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb5feee839d03a42ba0ef98fd6",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab676161000051745feee839d03a42ba0ef98fd6",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f1785feee839d03a42ba0ef98fd6",
+      "width" : 160
+    } ],
+    "name" : "Brad Mehldau Trio",
+    "popularity" : 45,
+    "type" : "artist",
+    "uri" : "spotify:artist:5sQJzc7ZGwC4olbhp2kqqX"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 4023
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/6cM1vbrKTztN2uNjH8ub6F",
+    "id" : "6cM1vbrKTztN2uNjH8ub6F",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb5d8d52389cc2d4aa48d2906d",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab676161000051745d8d52389cc2d4aa48d2906d",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f1785d8d52389cc2d4aa48d2906d",
+      "width" : 160
+    } ],
+    "name" : "Jacob Mann",
+    "popularity" : 28,
+    "type" : "artist",
+    "uri" : "spotify:artist:6cM1vbrKTztN2uNjH8ub6F"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 267720
+    },
+    "genres" : [ "contemporary jazz", "cool jazz", "ecm-style jazz", "jazz", "jazz fusion", "jazz piano" ],
+    "href" : "https://api.spotify.com/v1/artists/0F3Aew9DSd6fb6192K1K0Y",
+    "id" : "0F3Aew9DSd6fb6192K1K0Y",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb8757d081b1451ea9415230cb",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab676161000051748757d081b1451ea9415230cb",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f1788757d081b1451ea9415230cb",
+      "width" : 160
+    } ],
+    "name" : "Keith Jarrett",
+    "popularity" : 57,
+    "type" : "artist",
+    "uri" : "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 3242939
+    },
+    "genres" : [ "neo mellow" ],
+    "href" : "https://api.spotify.com/v1/artists/3GBPw9NK25X1Wt2OUvOwY3",
+    "id" : "3GBPw9NK25X1Wt2OUvOwY3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb9555a0b3231117c8cde1fca7",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab676161000051749555a0b3231117c8cde1fca7",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f1789555a0b3231117c8cde1fca7",
+      "width" : 160
+    } ],
+    "name" : "Jack Johnson",
+    "popularity" : 78,
+    "type" : "artist",
+    "uri" : "spotify:artist:3GBPw9NK25X1Wt2OUvOwY3"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4HCwj3Nt6DTTmJCpHuQOeM"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 12350
+    },
+    "genres" : [ "avant-garde jazz", "contemporary jazz", "cool jazz", "ecm-style jazz", "free improvisation", "free jazz", "jazz", "jazz piano" ],
+    "href" : "https://api.spotify.com/v1/artists/4HCwj3Nt6DTTmJCpHuQOeM",
+    "id" : "4HCwj3Nt6DTTmJCpHuQOeM",
+    "images" : [ {
+      "height" : 1000,
+      "url" : "https://i.scdn.co/image/4c78cd761e589dea5278d6820f6abcbbce401685",
+      "width" : 1000
+    }, {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3714e2f835ac6daf6ccd77254aff1cb4c095dd5b",
+      "width" : 640
+    }, {
+      "height" : 200,
+      "url" : "https://i.scdn.co/image/e1da79f7b197d48c6a72b061cc8ef76d810349ff",
+      "width" : 200
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c821536c4f1e663a8690818e2742cf12995843a0",
+      "width" : 64
+    } ],
+    "name" : "Paul Bley",
+    "popularity" : 35,
+    "type" : "artist",
+    "uri" : "spotify:artist:4HCwj3Nt6DTTmJCpHuQOeM"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 33297
+    },
+    "genres" : [ "contemporary jazz", "ecm-style jazz", "indie jazz", "jazz", "jazz fusion", "jazz piano", "modern jazz piano", "swedish jazz" ],
+    "href" : "https://api.spotify.com/v1/artists/22KzEvCtrTGf9l6k7zFcdv",
+    "id" : "22KzEvCtrTGf9l6k7zFcdv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb55d801647c6e2528e701d1cb",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab6761610000517455d801647c6e2528e701d1cb",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f17855d801647c6e2528e701d1cb",
+      "width" : 160
+    } ],
+    "name" : "Aaron Parks",
+    "popularity" : 42,
+    "type" : "artist",
+    "uri" : "spotify:artist:22KzEvCtrTGf9l6k7zFcdv"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 291317
+    },
+    "genres" : [ "adult standards", "big band", "cool jazz", "harlem renaissance", "jazz", "jazz piano", "lounge", "stride", "swing", "vocal jazz" ],
+    "href" : "https://api.spotify.com/v1/artists/2jFZlvIea42ZvcCw4OeEdA",
+    "id" : "2jFZlvIea42ZvcCw4OeEdA",
+    "images" : [ {
+      "height" : 848,
+      "url" : "https://i.scdn.co/image/4f5e6383a803df41153fd871f6d0d0af7b9f08a0",
+      "width" : 722
+    }, {
+      "height" : 752,
+      "url" : "https://i.scdn.co/image/cb1e9ef704a78904fce4a4b0c5e7f59d159d9015",
+      "width" : 640
+    }, {
+      "height" : 235,
+      "url" : "https://i.scdn.co/image/7dbe64be515462e33f16d183a71eac95e5d2425f",
+      "width" : 200
+    }, {
+      "height" : 75,
+      "url" : "https://i.scdn.co/image/7788a536ff839cf7cee7640aeb77fc233f2c0979",
+      "width" : 64
+    } ],
+    "name" : "Count Basie",
+    "popularity" : 65,
+    "type" : "artist",
+    "uri" : "spotify:artist:2jFZlvIea42ZvcCw4OeEdA"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 38232
+    },
+    "genres" : [ "contemporary jazz", "cool jazz", "ecm-style jazz", "jazz", "jazz fusion", "jazz trio" ],
+    "href" : "https://api.spotify.com/v1/artists/3OJGG2blZ0c3YTOMSKZaHj",
+    "id" : "3OJGG2blZ0c3YTOMSKZaHj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b2738e3ae60a8f1b9a5124c23ccc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e028e3ae60a8f1b9a5124c23ccc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d000048518e3ae60a8f1b9a5124c23ccc",
+      "width" : 64
+    } ],
+    "name" : "Keith Jarrett Trio",
+    "popularity" : 51,
+    "type" : "artist",
+    "uri" : "spotify:artist:3OJGG2blZ0c3YTOMSKZaHj"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 131683
+    },
+    "genres" : [ "social media pop" ],
+    "href" : "https://api.spotify.com/v1/artists/0e5Rda7VQAY786739xp0Jt",
+    "id" : "0e5Rda7VQAY786739xp0Jt",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebd41d9ebe2debc54ed9cf766a",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174d41d9ebe2debc54ed9cf766a",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178d41d9ebe2debc54ed9cf766a",
+      "width" : 160
+    } ],
+    "name" : "Rare Americans",
+    "popularity" : 61,
+    "type" : "artist",
+    "uri" : "spotify:artist:0e5Rda7VQAY786739xp0Jt"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 2187522
+    },
+    "genres" : [ "cool jazz", "hard bop", "jazz", "jazz fusion", "jazz trumpet" ],
+    "href" : "https://api.spotify.com/v1/artists/0kbYTNQb4Pb1rPbbaF0pT4",
+    "id" : "0kbYTNQb4Pb1rPbbaF0pT4",
+    "images" : [ {
+      "height" : 1000,
+      "url" : "https://i.scdn.co/image/423e826b3c1b23930a255d7cbc2daf733f795507",
+      "width" : 1000
+    }, {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a318c54208af38364d131a54ced2416423696018",
+      "width" : 640
+    }, {
+      "height" : 200,
+      "url" : "https://i.scdn.co/image/8496e6ea230dd47311d85dcf860015792f5ada42",
+      "width" : 200
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b1af952a7fb8ac2c4467868d61b5752fc1a01cf0",
+      "width" : 64
+    } ],
+    "name" : "Miles Davis",
+    "popularity" : 65,
+    "type" : "artist",
+    "uri" : "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 772908
+    },
+    "genres" : [ "adult standards", "cool jazz", "jazz", "jazz trumpet", "lounge", "vocal jazz" ],
+    "href" : "https://api.spotify.com/v1/artists/3rxeQlsv0Sc2nyYaZ5W71T",
+    "id" : "3rxeQlsv0Sc2nyYaZ5W71T",
+    "images" : [ {
+      "height" : 817,
+      "url" : "https://i.scdn.co/image/8fd767aa91ecd8e5720b424812e2a17586834ac2",
+      "width" : 1000
+    }, {
+      "height" : 523,
+      "url" : "https://i.scdn.co/image/baa4a09ca62a85dab5de4a8e9d635571b9cfac9d",
+      "width" : 640
+    }, {
+      "height" : 163,
+      "url" : "https://i.scdn.co/image/5c15cad68e6584825963e484deca44c12e118dfb",
+      "width" : 199
+    }, {
+      "height" : 52,
+      "url" : "https://i.scdn.co/image/ec483daff287cc9cdb4a42cfa5bcd350a50bd89a",
+      "width" : 64
+    } ],
+    "name" : "Chet Baker",
+    "popularity" : 66,
+    "type" : "artist",
+    "uri" : "spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 6309692
+    },
+    "genres" : [ "pop", "r&b", "rap" ],
+    "href" : "https://api.spotify.com/v1/artists/7tYKF4w9nC0nq9CsPZTHyP",
+    "id" : "7tYKF4w9nC0nq9CsPZTHyP",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb529f2198b3e9e77c0d5a665b",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174529f2198b3e9e77c0d5a665b",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178529f2198b3e9e77c0d5a665b",
+      "width" : 160
+    } ],
+    "name" : "SZA",
+    "popularity" : 87,
+    "type" : "artist",
+    "uri" : "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 18480600
+    },
+    "genres" : [ "conscious hip hop", "hip hop", "rap", "west coast rap" ],
+    "href" : "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+    "id" : "2YZyLoL8N0Wb9xBt1NhZWg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebaf159f008f57546e24846397",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174af159f008f57546e24846397",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178af159f008f57546e24846397",
+      "width" : 160
+    } ],
+    "name" : "Kendrick Lamar",
+    "popularity" : 89,
+    "type" : "artist",
+    "uri" : "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3Y8rffZJZVJgNWMM6ZVGin"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 2706
+    },
+    "genres" : [ "contemporary jazz", "straight-ahead jazz" ],
+    "href" : "https://api.spotify.com/v1/artists/3Y8rffZJZVJgNWMM6ZVGin",
+    "id" : "3Y8rffZJZVJgNWMM6ZVGin",
+    "images" : [ {
+      "height" : 667,
+      "url" : "https://i.scdn.co/image/74057212b03587c7feba8d3bc7329df23120c5ee",
+      "width" : 1000
+    }, {
+      "height" : 427,
+      "url" : "https://i.scdn.co/image/70513077df05267ee44049b801d009c094c2bfc0",
+      "width" : 640
+    }, {
+      "height" : 133,
+      "url" : "https://i.scdn.co/image/4fd467398d0e20dc6f38d16b359f0d261dd944a3",
+      "width" : 200
+    }, {
+      "height" : 43,
+      "url" : "https://i.scdn.co/image/d42ab78b134926f299d7f5e691a8dc15aa3a1cf1",
+      "width" : 64
+    } ],
+    "name" : "Dayna Stephens",
+    "popularity" : 16,
+    "type" : "artist",
+    "uri" : "spotify:artist:3Y8rffZJZVJgNWMM6ZVGin"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 37224845
+    },
+    "genres" : [ "classic rock", "glam rock", "rock" ],
+    "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+    "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+    "images" : [ {
+      "height" : 806,
+      "url" : "https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982",
+      "width" : 999
+    }, {
+      "height" : 516,
+      "url" : "https://i.scdn.co/image/af2b8e57f6d7b5d43a616bd1e27ba552cd8bfd42",
+      "width" : 640
+    }, {
+      "height" : 161,
+      "url" : "https://i.scdn.co/image/c06971e9ff81696699b829484e3be165f4e64368",
+      "width" : 200
+    }, {
+      "height" : 52,
+      "url" : "https://i.scdn.co/image/6dd0ffd270903d1884edf9058c49f58b03db893d",
+      "width" : 64
+    } ],
+    "name" : "Queen",
+    "popularity" : 87,
+    "type" : "artist",
+    "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 10530
+    },
+    "genres" : [ "contemporary jazz", "jazz saxophone" ],
+    "href" : "https://api.spotify.com/v1/artists/36kfddkWcVc6XrzNN9BsTP",
+    "id" : "36kfddkWcVc6XrzNN9BsTP",
+    "images" : [ {
+      "height" : 666,
+      "url" : "https://i.scdn.co/image/b33c4a2e6dc0e3d94722ca931d5708d26b6fdca5",
+      "width" : 1000
+    }, {
+      "height" : 426,
+      "url" : "https://i.scdn.co/image/8c55864d1f3a7b2e7989d647e009abff16dcecd0",
+      "width" : 640
+    }, {
+      "height" : 133,
+      "url" : "https://i.scdn.co/image/f6efa7d9ea033d80b744e4bdbe7929affdb52f2f",
+      "width" : 200
+    }, {
+      "height" : 43,
+      "url" : "https://i.scdn.co/image/aea4a262a43aa344a8db4f6f4dc9d7aa51a2af3b",
+      "width" : 64
+    } ],
+    "name" : "Mark Turner",
+    "popularity" : 31,
+    "type" : "artist",
+    "uri" : "spotify:artist:36kfddkWcVc6XrzNN9BsTP"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 1729233
+    },
+    "genres" : [ "afrofuturism", "dance pop", "electropop", "pop", "post-teen pop" ],
+    "href" : "https://api.spotify.com/v1/artists/3rWZHrfrsPBxVy692yAIxF",
+    "id" : "3rWZHrfrsPBxVy692yAIxF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb787b04112f1dbd7c8bce18b9",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174787b04112f1dbd7c8bce18b9",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178787b04112f1dbd7c8bce18b9",
+      "width" : 160
+    } ],
+    "name" : "WILLOW",
+    "popularity" : 83,
+    "type" : "artist",
+    "uri" : "spotify:artist:3rWZHrfrsPBxVy692yAIxF"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 218473
+    },
+    "genres" : [ "icelandic indie" ],
+    "href" : "https://api.spotify.com/v1/artists/5WoWlP0ihSFIxnppxjwSgE",
+    "id" : "5WoWlP0ihSFIxnppxjwSgE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb076046c880745c7a4a9e489a",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174076046c880745c7a4a9e489a",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178076046c880745c7a4a9e489a",
+      "width" : 160
+    } ],
+    "name" : "Low Roar",
+    "popularity" : 57,
+    "type" : "artist",
+    "uri" : "spotify:artist:5WoWlP0ihSFIxnppxjwSgE"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 63548
+    },
+    "genres" : [ "banjo", "bluegrass", "bluegrass gospel", "new americana", "new england americana", "progressive bluegrass" ],
+    "href" : "https://api.spotify.com/v1/artists/7LOJ56d8VmOebynlV01KfU",
+    "id" : "7LOJ56d8VmOebynlV01KfU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb15107b78954f4e1f464c2082",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab6761610000517415107b78954f4e1f464c2082",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f17815107b78954f4e1f464c2082",
+      "width" : 160
+    } ],
+    "name" : "Crooked Still",
+    "popularity" : 46,
+    "type" : "artist",
+    "uri" : "spotify:artist:7LOJ56d8VmOebynlV01KfU"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 34468901
+    },
+    "genres" : [ "dance pop", "pop" ],
+    "href" : "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+    "id" : "0du5cEVh5yTK9QJze8zA0C",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebdbbfc76f7c80126138dcd1a1",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174dbbfc76f7c80126138dcd1a1",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178dbbfc76f7c80126138dcd1a1",
+      "width" : 160
+    } ],
+    "name" : "Bruno Mars",
+    "popularity" : 90,
+    "type" : "artist",
+    "uri" : "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 50360404
+    },
+    "genres" : [ "electropop", "pop" ],
+    "href" : "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+    "id" : "6qqNVTkY8uBg9cP3Jd7DAH",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174d8b9980db67272cb4d2c3daf",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178d8b9980db67272cb4d2c3daf",
+      "width" : 160
+    } ],
+    "name" : "Billie Eilish",
+    "popularity" : 93,
+    "type" : "artist",
+    "uri" : "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 2205502
+    },
+    "genres" : [ "australian dance", "australian electropop", "australian indie", "downtempo", "edm" ],
+    "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+    "id" : "6nxWCVXbOlEVRexSbLsTer",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebaa6712affa299549ce628b6d",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174aa6712affa299549ce628b6d",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178aa6712affa299549ce628b6d",
+      "width" : 160
+    } ],
+    "name" : "Flume",
+    "popularity" : 74,
+    "type" : "artist",
+    "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0IV9EI5sd2rlMEoAvDg70M"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 280
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/0IV9EI5sd2rlMEoAvDg70M",
+    "id" : "0IV9EI5sd2rlMEoAvDg70M",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273142a4a3205689f3b90a783c9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02142a4a3205689f3b90a783c9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851142a4a3205689f3b90a783c9",
+      "width" : 64
+    } ],
+    "name" : "Noam Wiesenberg",
+    "popularity" : 3,
+    "type" : "artist",
+    "uri" : "spotify:artist:0IV9EI5sd2rlMEoAvDg70M"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0gaASCUAMqvXxGFDYaNFca"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 10267
+    },
+    "genres" : [ "contemporary jazz", "jazz" ],
+    "href" : "https://api.spotify.com/v1/artists/0gaASCUAMqvXxGFDYaNFca",
+    "id" : "0gaASCUAMqvXxGFDYaNFca",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebfd5460ef17928a5b42f1d6b7",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174fd5460ef17928a5b42f1d6b7",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178fd5460ef17928a5b42f1d6b7",
+      "width" : 160
+    } ],
+    "name" : "Ben Wendel",
+    "popularity" : 26,
+    "type" : "artist",
+    "uri" : "spotify:artist:0gaASCUAMqvXxGFDYaNFca"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 2887474
+    },
+    "genres" : [ "dance pop" ],
+    "href" : "https://api.spotify.com/v1/artists/0z4gvV4rjIZ9wHck67ucSV",
+    "id" : "0z4gvV4rjIZ9wHck67ucSV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebdcf05227f2b4483f1e356943",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174dcf05227f2b4483f1e356943",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178dcf05227f2b4483f1e356943",
+      "width" : 160
+    } ],
+    "name" : "Akon",
+    "popularity" : 82,
+    "type" : "artist",
+    "uri" : "spotify:artist:0z4gvV4rjIZ9wHck67ucSV"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 579958
+    },
+    "genres" : [ "alternative r&b", "chicago rap", "escape room", "hip hop", "indie soul", "neo soul", "underground hip hop" ],
+    "href" : "https://api.spotify.com/v1/artists/1EpyA68dKpjf7jXmQL88Hy",
+    "id" : "1EpyA68dKpjf7jXmQL88Hy",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb848dcca3aa9c107144949f39",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174848dcca3aa9c107144949f39",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178848dcca3aa9c107144949f39",
+      "width" : 160
+    } ],
+    "name" : "Noname",
+    "popularity" : 60,
+    "type" : "artist",
+    "uri" : "spotify:artist:1EpyA68dKpjf7jXmQL88Hy"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 104993
+    },
+    "genres" : [ "bebop", "big band", "cool jazz", "hard bop", "jazz", "jazz fusion", "jazz trumpet", "soul jazz", "stride", "swing", "vocal jazz" ],
+    "href" : "https://api.spotify.com/v1/artists/1HJHwWck1EY096ea2iPAHO",
+    "id" : "1HJHwWck1EY096ea2iPAHO",
+    "images" : [ {
+      "height" : 400,
+      "url" : "https://i.scdn.co/image/143442e601bb160cc58087c669ef199f4f7094ac",
+      "width" : 400
+    }, {
+      "height" : 200,
+      "url" : "https://i.scdn.co/image/34ea33365d65ed58d28336281a29d6f9f1d71595",
+      "width" : 200
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5f1eb6b6320f9150b013abb724cd240216d29245",
+      "width" : 64
+    } ],
+    "name" : "Clifford Brown",
+    "popularity" : 52,
+    "type" : "artist",
+    "uri" : "spotify:artist:1HJHwWck1EY096ea2iPAHO"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 3537683
+    },
+    "genres" : [ "alternative metal", "alternative rock", "grunge", "permanent wave", "pop rock", "rock" ],
+    "href" : "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i",
+    "id" : "40Yq4vzPs9VNUrIBG5Jr2i",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebbe2f365d2999abe2cc48f6d3",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174be2f365d2999abe2cc48f6d3",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178be2f365d2999abe2cc48f6d3",
+      "width" : 160
+    } ],
+    "name" : "The Smashing Pumpkins",
+    "popularity" : 74,
+    "type" : "artist",
+    "uri" : "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 25012
+    },
+    "genres" : [ "avant-garde jazz", "bebop", "big band", "contemporary jazz", "cool jazz", "free jazz", "hard bop", "jazz", "jazz fusion", "jazz saxophone", "soul jazz", "stride", "vocal jazz" ],
+    "href" : "https://api.spotify.com/v1/artists/4YNvbaOaqp5pzC5US5t48k",
+    "id" : "4YNvbaOaqp5pzC5US5t48k",
+    "images" : [ {
+      "height" : 567,
+      "url" : "https://i.scdn.co/image/4e7a0fb8cfe940f7cb4c287793b7ebf3fdab6753",
+      "width" : 720
+    }, {
+      "height" : 504,
+      "url" : "https://i.scdn.co/image/a43a09eb03d2abe20694ac44b1207f6f92f5ab8b",
+      "width" : 640
+    }, {
+      "height" : 158,
+      "url" : "https://i.scdn.co/image/8d0b87b20e79585aef5dae68d908bf8887751afd",
+      "width" : 200
+    }, {
+      "height" : 50,
+      "url" : "https://i.scdn.co/image/e54eca0df079fe1d7d8982f17bbaf0cee8fb08d0",
+      "width" : 63
+    } ],
+    "name" : "Lee Konitz",
+    "popularity" : 47,
+    "type" : "artist",
+    "uri" : "spotify:artist:4YNvbaOaqp5pzC5US5t48k"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 15353943
+    },
+    "genres" : [ "chicago rap", "rap" ],
+    "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+    "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb867008a971fae0f4d913f63a",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174867008a971fae0f4d913f63a",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178867008a971fae0f4d913f63a",
+      "width" : 160
+    } ],
+    "name" : "Kanye West",
+    "popularity" : 96,
+    "type" : "artist",
+    "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1JyQazOFLLO3WfMaRglxnS"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 635
+    },
+    "genres" : [ "tibetan pop", "tibetan traditional" ],
+    "href" : "https://api.spotify.com/v1/artists/1JyQazOFLLO3WfMaRglxnS",
+    "id" : "1JyQazOFLLO3WfMaRglxnS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b2737d0adacd8574e9e198be4434",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e027d0adacd8574e9e198be4434",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d000048517d0adacd8574e9e198be4434",
+      "width" : 64
+    } ],
+    "name" : "Tibetan Institute Of Performing Arts",
+    "popularity" : 8,
+    "type" : "artist",
+    "uri" : "spotify:artist:1JyQazOFLLO3WfMaRglxnS"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 5430926
+    },
+    "genres" : [ "chicago rap", "conscious hip hop", "hip hop", "pop rap", "rap" ],
+    "href" : "https://api.spotify.com/v1/artists/1anyVhU62p31KFi8MEzkbf",
+    "id" : "1anyVhU62p31KFi8MEzkbf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebc654cd5b897dea358f9e3da1",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174c654cd5b897dea358f9e3da1",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178c654cd5b897dea358f9e3da1",
+      "width" : 160
+    } ],
+    "name" : "Chance the Rapper",
+    "popularity" : 80,
+    "type" : "artist",
+    "uri" : "spotify:artist:1anyVhU62p31KFi8MEzkbf"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 2548304
+    },
+    "genres" : [ "conscious hip hop", "east coast hip hop", "gangster rap", "hardcore hip hop", "hip hop", "queens hip hop", "rap" ],
+    "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+    "id" : "20qISvAhX20dpIbOOzGK3q",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebb62e7221d46b56e7feb8353a",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174b62e7221d46b56e7feb8353a",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178b62e7221d46b56e7feb8353a",
+      "width" : 160
+    } ],
+    "name" : "Nas",
+    "popularity" : 77,
+    "type" : "artist",
+    "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 502547
+    },
+    "genres" : [ "adult standards", "bebop", "cool jazz", "hard bop", "jazz", "jazz fusion", "jazz piano", "vocal jazz" ],
+    "href" : "https://api.spotify.com/v1/artists/4jXfFzeP66Zy67HM2mvIIF",
+    "id" : "4jXfFzeP66Zy67HM2mvIIF",
+    "images" : [ {
+      "height" : 721,
+      "url" : "https://i.scdn.co/image/427eff99088d2a1be072a012f04e2406ee7cc24b",
+      "width" : 1000
+    }, {
+      "height" : 461,
+      "url" : "https://i.scdn.co/image/7a21999da5e80714ec222c493dae1c946f1bf36c",
+      "width" : 639
+    }, {
+      "height" : 144,
+      "url" : "https://i.scdn.co/image/6e8c0e19976c7011ad8029d7d48374c1e10d3d18",
+      "width" : 200
+    }, {
+      "height" : 46,
+      "url" : "https://i.scdn.co/image/52507da3472fda2d60f21a128eae6f629078df5c",
+      "width" : 64
+    } ],
+    "name" : "Bill Evans",
+    "popularity" : 65,
+    "type" : "artist",
+    "uri" : "spotify:artist:4jXfFzeP66Zy67HM2mvIIF"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 105566
+    },
+    "genres" : [ "classical", "classical performance", "classical piano", "latin american classical piano" ],
+    "href" : "https://api.spotify.com/v1/artists/66MvLAvLznk5UOvASVGjk4",
+    "id" : "66MvLAvLznk5UOvASVGjk4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb66cd5da57e71a33da20de712",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab6761610000517466cd5da57e71a33da20de712",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f17866cd5da57e71a33da20de712",
+      "width" : 160
+    } ],
+    "name" : "Martha Argerich",
+    "popularity" : 57,
+    "type" : "artist",
+    "uri" : "spotify:artist:66MvLAvLznk5UOvASVGjk4"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1RjRHE0popjV7rhcHdp376"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 20287
+    },
+    "genres" : [ "japanese vgm", "sound team", "video game music" ],
+    "href" : "https://api.spotify.com/v1/artists/1RjRHE0popjV7rhcHdp376",
+    "id" : "1RjRHE0popjV7rhcHdp376",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b2732472601180911ff89445cbc8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e022472601180911ff89445cbc8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d000048512472601180911ff89445cbc8",
+      "width" : 64
+    } ],
+    "name" : "SIE Sound Team",
+    "popularity" : 51,
+    "type" : "artist",
+    "uri" : "spotify:artist:1RjRHE0popjV7rhcHdp376"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0IyuDlCVbMa3TAoVaDKEeL"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 10069
+    },
+    "genres" : [ "contemporary jazz" ],
+    "href" : "https://api.spotify.com/v1/artists/0IyuDlCVbMa3TAoVaDKEeL",
+    "id" : "0IyuDlCVbMa3TAoVaDKEeL",
+    "images" : [ {
+      "height" : 1000,
+      "url" : "https://i.scdn.co/image/06c0e5fc00346bc76367bf86d90758567a64b4f9",
+      "width" : 1000
+    }, {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a853c234ed71831cfc9f2b143ae354aa5843993b",
+      "width" : 640
+    }, {
+      "height" : 200,
+      "url" : "https://i.scdn.co/image/d507b8e6a11ae4104bcdaa4a374b61c94de7f972",
+      "width" : 200
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/67af9e61260b1c7b12ad702fd757a90f4d537f29",
+      "width" : 64
+    } ],
+    "name" : "Kendrick Scott Oracle",
+    "popularity" : 31,
+    "type" : "artist",
+    "uri" : "spotify:artist:0IyuDlCVbMa3TAoVaDKEeL"
+  } ],
+  "total" : 50,
+  "limit" : 50,
+  "offset" : 0,
+  "previous" : null,
+  "href" : "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0",
+  "next" : null
+}
