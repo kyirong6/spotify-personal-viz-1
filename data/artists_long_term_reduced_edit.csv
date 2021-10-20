@@ -1,0 +1,51 @@
+,genres,name,popularity,id,genre
+0,"['contemporary jazz', 'contemporary post-bop', 'cool jazz', 'jazz', 'jazz fusion', 'jazz piano', 'modern jazz piano']",Brad Mehldau,55,2vI9KFm0fwSfPrpEgOeIbq,jazz
+1,"['contemporary jazz', 'ecm-style jazz', 'israeli jazz']",Shai Maestro,34,0ctjXj4AKsMtj6Tsm0JzSj,jazz
+2,"['contemporary jazz', 'jazz']",Walter Smith III,31,26XwWqwNq8FMgZEKqqdU9b,jazz
+3,"['contemporary jazz', 'ecm-style jazz', 'indie jazz', 'jazz', 'jazz fusion', 'jazz piano', 'modern jazz piano', 'swedish jazz']",Aaron Parks,42,22KzEvCtrTGf9l6k7zFcdv,jazz
+4,"['classic rock', 'glam rock', 'rock']",Queen,87,1dfeR4HaWDbWqFHLkxsg1d,rock
+5,"['caucasian classical piano', 'classical performance', 'classical piano']",Khatia Buniatishvili,57,0bouHpX4JiuPnIfP2jFxRi,classical
+6,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",Drake,100,3TVXtAsR1Inumwj472S9r4,hip hop
+7,['contemporary jazz'],Kendrick Scott Oracle,31,0IyuDlCVbMa3TAoVaDKEeL,jazz
+8,"['contemporary jazz', 'contemporary post-bop', 'jazz', 'jazz fusion', 'jazz guitar']",Kurt Rosenwinkel,41,253GMpCNwx1TJtASNAeDoP,jazz
+9,"['canadian contemporary r&b', 'pop', 'r&b']",Daniel Caesar,83,20wkVLutqVOYrc0kxFs7rA,pop
+10,"['contemporary jazz', 'indie jazz', 'jazz', 'jazz trumpet']",Ambrose Akinmusire,37,4ai53dgSBGhQwcFtGyY1bF,jazz
+11,"['electropop', 'pop']",Billie Eilish,93,6qqNVTkY8uBg9cP3Jd7DAH,pop
+12,"['contemporary jazz', 'jazz']",Ben Wendel,26,0gaASCUAMqvXxGFDYaNFca,jazz
+13,"['contemporary jazz', 'cool jazz', 'jazz', 'jazz fusion', 'jazz trio', 'modern jazz trio']",Brad Mehldau Trio,45,5sQJzc7ZGwC4olbhp2kqqX,jazz
+14,"['adult standards', 'cool jazz', 'jazz', 'jazz trumpet', 'lounge', 'vocal jazz']",Chet Baker,66,3rxeQlsv0Sc2nyYaZ5W71T,jazz
+15,"['chicago rap', 'rap']",Kanye West,96,5K4W6rqBFWDnAN6FQUkS6x,hip hop
+16,"['hip hop', 'pop', 'portland hip hop', 'rap', 'underground hip hop']",Amine,73,3Gm5F95VdRxW3mqCn8RPBJ,hip hop
+17,"['classical performance', 'german orchestra', 'orchestra']",Berliner Philharmoniker,72,6uRJnvQ3f8whVnmeoecv5Z,classical
+18,[],Jacob Mann,28,6cM1vbrKTztN2uNjH8ub6F,jazz
+19,"['alternative r&b', 'bedroom pop', 'bedroom soul', 'chill r&b', 'indie r&b', 'pop', 'r&b']",Omar Apollo,67,5FxD8fkQZ6KcsSYupDVoSO,pop
+20,"['tibetan pop', 'tibetan traditional']",Tibetan Institute Of Performing Arts,8,1JyQazOFLLO3WfMaRglxnS,tibetan
+21,"['contemporary jazz', 'jazz', 'jazz piano', 'modern jazz piano']",Tigran Hamasyan,45,0D3h8NZqNp7BN97JwtV6eW,jazz
+22,"['art pop', 'pop']",Lana Del Rey,85,00FQb4jTyendYWaN8pK0wa,pop
+23,"['contemporary jazz', 'contemporary post-bop', 'cool jazz', 'hard bop', 'jazz', 'jazz funk', 'jazz fusion', 'jazz saxophone', 'straight-ahead jazz']",Joshua Redman,46,3uaHfXYx9Fh4HjqMbrWn5S,jazz
+24,"['dance pop', 'pop', 'r&b']",Beyonce,86,6vWDO969PvNqNYHIOW5v0m,pop
+25,[],Immanuel Wilkins,37,5szMuuBbDzULkagWIfI5LG,jazz
+26,"['dance pop', 'pop']",Lady Gaga,87,1HY2Jd0NmPuamShAr6KMms,pop
+27,"['contemporary jazz', 'jazz', 'modern jazz piano', 'straight-ahead jazz']",Gerald Clayton,33,5mYw31MXiGnqTMliAcl7m8,jazz
+28,"['contemporary jazz', 'jazz saxophone']",Mark Turner,31,36kfddkWcVc6XrzNN9BsTP,jazz
+29,['progressive jazz fusion'],Nir Felder,25,7L6hdiesl0TXJgdciKKrxD,jazz
+30,"['alternative r&b', 'chill r&b', 'indie r&b', 'indie soul', 'pop', 'r&b', 'scandinavian r&b', 'swedish soul']",Snoh Aalegra,70,1A9o3Ljt67pFZ89YtPPL5X,pop
+31,"['baroque pop', 'pop', 'uk alternative pop']",Florence + The Machine,76,1moxjboGR7GNWYIMWsRjgG,pop
+32,"['classical', 'classical performance', 'classical piano', 'polish classical piano']",Arthur Rubinstein,52,5N1GUHhFMRFFgMTjSOJDb9,classical
+33,"['dance pop', 'pop', 'r&b', 'urban contemporary']",Miguel,80,360IAlyVv4PCEVjgyMZrxK,hip hop
+34,"['bedroom pop', 'modern rock', 'oakland indie']",Still Woozy,74,4iMO20EPodreIaEl8qW66y,hip hop
+35,"['contemporary jazz', 'straight-ahead jazz']",Dayna Stephens,16,3Y8rffZJZVJgNWMM6ZVGin,jazz
+36,"['ambient pop', 'dream pop', 'el paso indie', 'shoegaze']",Cigarettes After Sex,76,1QAJqy2dA3ihHBFIHRphZj,jazz
+37,"['canadian modern jazz', 'contemporary jazz', 'jazz saxophone', 'straight-ahead jazz']",Seamus Blake,34,5tGDXwaO3qq4w9mAhZHwZY,jazz
+38,"['electro', 'filter house']",Daft Punk,82,4tZwfgrHOc3mvqYlEYSvVi,electro
+39,"['dance pop', 'escape room', 'minnesota hip hop', 'pop', 'trap queen']",Lizzo,78,56oDRnqbIiwx4mymNEv7dS,pop
+40,"['dance pop', 'pop']",Doja Cat,95,5cj0lLjcoR7YOSnhnX0Po5,pop
+41,"['contemporary jazz', 'jazz', 'jazz drums', 'straight-ahead jazz']",Ari Hoenig,39,1P6Llrp12ldpVbyC8gCHBz,jazz
+42,"['colombian pop', 'pop']",Kali Uchis,83,1U1el3k54VvEUzo3ybLPlM,pop
+43,"['indie pop', 'modern rock', 'pop']",Wallows,75,0NIPkIjTV8mB795yEIiPYL,pop
+44,"['australian psych', 'neo-psychedelic']",Tame Impala,80,5INjqkS1o8h1imAzPqGZBb,pop
+45,"['beatlesque', 'british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",The Beatles,87,3WrFJ7ztbogyGnTHbHJFl2,rock
+46,['jazz double bass'],Matt Brewer,18,2lbkXLlMyaHxra7bczgRqU,jazz
+47,"['alternative r&b', 'dance pop', 'electropop', 'hip pop', 'metropopolis', 'pop', 'pop r&b', 'pop rap', 'post-teen pop', 'r&b', 'urban contemporary']",Tinashe,74,0NIIxcxNHmOoyBx03SfTCD,pop
+48,"['neo soul', 'pop', 'pop soul', 'r&b', 'urban contemporary']",John Legend,81,5y2Xq6xcjJb2jVM54GHK3t,pop
+49,"['contemporary jazz', 'cool jazz', 'ecm-style jazz', 'jazz', 'jazz fusion', 'jazz trio']",Keith Jarrett Trio,51,3OJGG2blZ0c3YTOMSKZaHj,jazz

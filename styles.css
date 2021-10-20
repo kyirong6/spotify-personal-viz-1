@@ -1,3 +1,63 @@
-.top-text {
-    text-align: center;
+body {
+    font-family: 'Arial', sans-serif;
 }
+
+#top-text {
+    text-align: left;
+}
+
+#avg-musical-all {
+    height: auto;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+    flex-basis: 40%
+}
+
+#music-container-all {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+#text-music-all {
+    padding-left: 10px;
+}
+
+#music-container-range {
+    display: flex;
+    align-items: center;
+}
+
+#avg-musical-range {
+    padding: 10px;
+}
+
+#selectButton {
+    height: auto;
+    padding: 10px;
+}
+
+#artist-genre-container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+#artist-genre {
+    height: auto;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+    flex-basis: 40%
+}
+
+.tooltip {
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    padding: 15px;
+    min-width: 50px;
+    text-align: left;
+    color: black;
+  }

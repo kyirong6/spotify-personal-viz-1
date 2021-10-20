@@ -6,16 +6,76 @@
     <title>D3.js</title>
     <link rel="stylesheet" href="styles.css">
     <script src="https://d3js.org/d3.v7.min.js"></script>
-    <script src=app.js defer></script>
+    <script src=music_avg_all.js defer></script>
+    <script src=music_avg_range.js defer></script>
 </head>
 
-
 <body>  
-    <div class="top-text">
-        <h1>Personal Spotify Viz!</h1>
-        <p>Here is my description text for my visualizations down below! I will be writing down some more stuff...this is to test alignment.</p>
-    </div>  
-    <div id="scatter_area"></div>
+    <div id="container">
+        <div id="top-text">
+            <h1>Personal Spotify Viz!</h1>
+            <p>
+                This is a series of visualizations that aid in exploring and analyzing my listening habits. The data was fetched using
+                <a href="https://github.com/plamere/spotipy">spotipy</a>, a Python client for the <a href="https://developer.spotify.com/documentation/web-api/">Spotify Web API</a>. 
+            </p>
+            <p>
+                The data behind these visualizations include my top artists, genres, and audio features I gravitate towards. Moreover, the data 
+                is also divided into different time ranges. The <b>short_term</b> uses the past <i>4 weeks</i> of data, <b>medium_term</b> is the past <i>6 months</i>, and <b>long_term</b>
+                is <i>several years</i> worth of data.
+            </p>
+            <p>
+                <a href="https://developer.spotify.com/documentation/web-api/reference/#/operations/get-several-audio-features">Audio features</a>
+                describe various attributes of a song such as: danceability, energy, speechiness, valence, and more...Analyzing and visualizing these features allows me to better understand 
+                the types of songs I listen to and why I listen to them. Moreover, viewing my listening habits over a time range also gives me some feedback on how my tendancies have changed
+                over time.
+            </p>
+        </div>  
+        <div id="music-container-all">
+            <div id="avg-musical-all"></div>
+            <div id="text-music-all">
+                <h3>Average of Audio Features on All Time Ranges</h3>
+                <p>The bar chart to the left describes my average audio features in totality. Spotify describes each feature as such:</p>
+                <p>
+                    <ol>
+                        <li><i><b>danceability</b></i>: "Danceability describes how suitable a track is for dancing based on a combination elements including tempo, rhythm stability, and beat." </li>
+                        <li><i><b>energy</b></i>: "A perceptual measure of intensity and activity. Energetic tracks feel fast, loud, and noisy." </li>
+                        <li><i><b>speechiness</b></i>: "Speechiness detects the presence of spoken words in a track. The more exclusively speech-like the recording (e.g. talk show), the closer to 1.0 the attribute value." </li>
+                        <li><i><b>acousticness</b></i>: "A confidence measure from 0.0 to 1.0 of whether the track is acoustic. 1.0 represents high confidence the track is acoustic." </li>
+                        <li><i><b>instrumentalness</b></i>: "Predicts whether a track contains no vocals." </li>
+                        <li><i><b>liveness</b></i>: "Detects the presence of an audience in the recording." </li>
+                        <li><i><b>valence</b></i>: "A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track." </li>
+                      </ol>
+                </p>
+            </div>
+        </div>
+        <div id="music-container-range">
+            <div id="avg-musical-range"></div>
+            <div id="text-music-all">
+                <h3>Averages of Audio Features on Various Time Ranges</h3>
+                <p>The connected scatter plot on the left shows how each audio feature varied over time.</p>
+                <p>
+                    <ol>
+                        <li><i><b>short_term</b></i>: ~ last 4 weeks </li>
+                        <li><i><b>medium_term</b></i>: ~ last 6 months</li>
+                        <li><i><b>long_term</b></i>: last several years </li>
+                      </ol>
+                </p>
+                <select id="selectButton"></select>
+            </div>
+        </div>
+        <div id="artist-genre-container">
+            <div id="artist-genre"></div>
+            <div id="text-music-all">
+                <h3>Most Prominent Genres and Artists</h3>
+                <p>These dots display my most listened to genre's and artists. Each artist is colour categorized by genre and is attracted to other artists within that same genre. This is shown by the 
+                    spacial proximity of the dots.
+                </p>
+                <div>
+                    <svg id="legend" height=300 width=450></svg>
+                </div>
+            </div>
+        </div>
+    </div>
 </body>
 
 </html>
